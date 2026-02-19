@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18698818.svg)](https://doi.org/10.5281/zenodo.18698818)
+
+
 # Toy Model – Deterministischer zellulärer Automat
 
 Dieses Repository enthält die formale Spezifikation für ein **Toy Model** eines hochkomplexen, deterministischen zellulären Automaten. Das Modell untersucht, wie aus streng limitierten lokalen Rechenbudgets und Erhaltungsregeln makroskopische Strukturen mit physikähnlichen Eigenschaften emergieren können.
